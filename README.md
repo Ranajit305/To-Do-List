@@ -1,12 +1,31 @@
-# React + Vite
+# To-Do App with Priority System
+A to-do application with priority levels and weather integration for outdoor tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+-  Add, edit, and delete tasks
+-  Priority levels (Low/Medium/High)
+-  Weather integration for outdoor tasks
+-  Local persistence using Zustand
+-  Responsive design
 
-Currently, two official plugins are available:
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Main Interface](/screenshots/main-view.png)
+*Task list with priority indicators*
 
-## Expanding the ESLint configuration
+![Weather Integration](/screenshots/weather-view.png)
+*Weather details for outdoor tasks*
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- React + Javascript
+- Zustand (state management)
+- Tailwind CSS (styling)
+- OpenWeatherMap API (weather data)
+- LocalStorage (storage management)
+
+## Setup Instructions
+1. Clone the repository: git clone https://github.com/your-username/to-do-app.git
+cd to-do-app
+2. Install Dependencies: npm install
+3. Enviroment Variable: VITE_WEATHER_API_KEY=your_api_key_here
+4. Run Server: npm run dev
