@@ -14,9 +14,6 @@ A to-do application with priority levels and weather integration for outdoor tas
 - [Create Task](https://github.com/Ranajit305/To-Do-List/blob/main/Create%20Task.png)
 - [Tasks](https://github.com/Ranajit305/To-Do-List/blob/main/Tasks.png)
 
-![Weather Integration](/screenshots/weather-view.png)
-*Weather details for outdoor tasks*
-
 ## Technologies Used
 - React + Javascript
 - Zustand (state management)
