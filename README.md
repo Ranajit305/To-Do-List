@@ -9,9 +9,10 @@ A to-do application with priority levels and weather integration for outdoor tas
 -  Responsive design
 
 ## Screenshots
-
-![Main Interface](/screenshots/main-view.png)
-*Task list with priority indicators*
+- [Login Page](https://github.com/Ranajit305/To-Do-List/blob/main/Login.png)
+- [Home Page](https://github.com/Ranajit305/To-Do-List/blob/main/Home.png)
+- [Create Task](https://github.com/Ranajit305/To-Do-List/blob/main/Create%20Task.png)
+- [Tasks](https://github.com/Ranajit305/To-Do-List/blob/main/Tasks.png)
 
 ![Weather Integration](/screenshots/weather-view.png)
 *Weather details for outdoor tasks*
