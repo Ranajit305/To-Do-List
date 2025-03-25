@@ -2,7 +2,7 @@
 A to-do application with priority levels and weather integration for outdoor tasks.
 
 ## Features
--  Add, edit, and delete tasks
+-  Add, view, and delete tasks
 -  Priority levels (Low/Medium/High)
 -  Weather integration for outdoor tasks
 -  Local persistence using Zustand
